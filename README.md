@@ -42,5 +42,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elevation Spine is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Elevation Spine is a privately held medical device company headquartered in Monterey, California, founded in 2015, that designs and manufactures integrated-fixation spinal implants. Its Saber platform combines interbody support with in-line spike or screw fixation in a single construct; the flagship Saber-C anterior cervical fusion system is a zero-profile ACDF device cleared as an anterior cervical plate, and the company received FDA 510(k) clearance for Saber-C AVIA, a porous 3D-printed titanium interbody, in July 2026.
+
+Elevation Spine sells physical surgical implants and instrumentation to hospitals and surgeons through distributors. It publishes no developer program, public API, SDK, or machine-readable specification of any kind — contract discovery on 2026-08-12 found no OpenAPI, GraphQL, MCP, AsyncAPI or agent card on any host, and no `developer.`, `api.` or `docs.` subdomain resolves.
+
+- https://www.elevationspine.com/
+- https://www.linkedin.com/company/elevation-spine/
