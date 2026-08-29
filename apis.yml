@@ -11,6 +11,17 @@ description: 'Elevation Spine is a privately held medical device company headqua
   and a customer login portal, and publishes no developer program, public API, SDK,
   or machine-readable specification of any kind.'
 url: https://raw.githubusercontent.com/api-evangelist/elevation-spine/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/664d1086abc543fb20c8a670/664e494bc8e9eca4be229625_ES_logo_RGB_v10.png
 x-type: company
 x-source: harvest:secondary-market
